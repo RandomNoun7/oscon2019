@@ -165,4 +165,74 @@ A lot of people in software think they are useless. They are wrong.
 - Before you start, do some research.
   Learn about the company, it's products, goals, people that work there. Did they
   just land a series A?
+  Phone screeners will ask if you know what their company does.
+  I don't want someone that wants any job, I want someone that wants MY job.
+  Check Glassdoor. People rate things when they are super happy, or super angry
+  but if there are patterns, it's something you should be aware of.
+- Format
+  This is a LETTER! Salutation, body, closer.
+  ASCII/Unicode (I'm guessing UTF8) only. Use only basic characters, no
+  formating. No Markdown, html etc.
+- Style
+  Guage the audience. Formal to casual, know your audience. Law Firm? Formal.
+  Startup? Less formal.
+  Use your own voice. Be yourself. Be honest.
+  Get an editor.
+- Content
+  It's not about you. It's about what you can do for me. Be yourself, but I need
+  to know how you can help me.
+- Unique
+  Each cover letter should be unique for each job. Make me feel special. You
+  can use a template, but if there should be at least some customization for me.
+  Personalized salutation. In email marketing, response rates go through the
+  roof if a saluation is customized for a reader.
+  If you can, find the name of the hiring manager and target them.
+  How to find this information?
+    - Sometimes you can find it in company info on Linkedin or the company website
+    - Email whoever you CAN find and email asking.
+    - Find the company internal nickname and ask on social media. "Hey googlers,
+      I found this job opening, who's hiring it?"
+  Whatever you do, don't use "To Whome it may concern." Cliche and cold.
+- Close with a call to action.
+  Let them know you want to talk to them. "I look forward to talking to you soon"
+  Don't be creepy. "I will follow up in x days if you don't respond"
+- If there's no field in the online tool for a cover letter, you can easily do
+  something like make your cover letter page one of the document you upload as
+  your "resume". If someone shoots you down for that, they are probably petty.
+  Don't work for them.
 
+### Q and A
+
+- How do you feel about using pronouns in the greeting
+  Perfectly fine to use your own pronouns in the closer. Using them in the
+  salutation, maybe don't use it, unless you know for sure what they use. Maybe
+  in their twitter bio they put "they/them". But it's a risk, so if you don't
+  know, don't risk it.
+
+## Applying for a job
+
+Odds are, you will not hear back from a company you apply to. Most of them never
+get seen by a person at all.
+
+It's not you, it's them. It's not that you're not qualified, or anything else,
+it's that they suck at communication.
+
+Status/tracking URL. Keep it. Often useless, but keep it.
+
+Always always always, follow the application directions. Unless it contradicts
+a basic principle or credo, just do it. If it does, you probably don't want
+to work for them.
+
+If you can't follow the basic directions, I probably don't want to hire you.
+
+When do I follow up? Probably, in the software industry, never. If you know someone
+on the inside personally, maybe ask them to inqure internally, but don't get needy.
+
+### Q and A
+
+- How many times should I apply for the same job on different websites?
+  Apply once. If you are working with a recruiter, work with them, don't apply
+  behind their back.
+- Should I apply for different jobs with the same company, and should I say
+  I'm doing that.
+  Do it, don't bother to mention it.
